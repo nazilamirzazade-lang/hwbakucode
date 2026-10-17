@@ -1,0 +1,19 @@
+
+
+.names li:first-child {
+    color: teal;
+}
+
+
+.names li:nth-child(2) {
+    color: red;
+}
+
+
+.names li:last-child {
+    color: green;
+}
+
+.names li:hover {
+    color: purple;
+}
